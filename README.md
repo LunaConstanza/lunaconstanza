@@ -1,4 +1,4 @@
-### Holaaa! ✨ Me llamo Luna, un gusto que me leas <img width="100" src="https://i.gifer.com/Hj94.gif"/>
+## Holaaa! ✨ Me llamo Luna, y es un gusto que me leas <img width="50" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"/>
 
 :woman_technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.<br>
 :jigsaw: Mis intereses son diversos: Plantitas, animales, peliculas, video juegos, hiking y camping.
