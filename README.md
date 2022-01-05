@@ -1,4 +1,7 @@
-### Hi there 👋
+### Holaaa! ✨ Me llamo Luna, un gusto que me leas <img width="100" src="https://i.gifer.com/Hj94.gif">
+
+- :technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.
+- :jigsaw: Mis intereses son diversos: Plantitas, animales, peliculas, video juegos, hiking y camping.
 
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
