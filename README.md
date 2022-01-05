@@ -1,6 +1,6 @@
-### Holaaa! ✨ Me llamo Luna, un gusto que me leas <img width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2FHj94&psig=AOvVaw2JYEOyffRPs0RVhx2IdDSk&ust=1641503276824000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID24YzCm_UCFQAAAAAdAAAAABAn">
+### Holaaa! ✨ Me llamo Luna, un gusto que me leas <img width="100" src="https://i.gifer.com/Hj94.gif"/>
 
-:woman_technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.
+:woman_technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.<br>
 :jigsaw: Mis intereses son diversos: Plantitas, animales, peliculas, video juegos, hiking y camping.
 
 <!--
