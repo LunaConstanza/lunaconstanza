@@ -1,8 +1,11 @@
-## Holaaa! ✨ Me llamo Luna, y es un gusto que me leas <img width="50" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"/>
+<img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"/>
+
+# Holaaa! ✨ Me llamo Luna y es un gusto que me leas :hand_over_mouth:
 
 :woman_technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.<br>
-:jigsaw: Mis intereses son diversos: Plantitas, animales, peliculas, video juegos, hiking y camping.
-
+:jigsaw: Mis intereses son diversos: Plantitas, peliculas, series, video juegos, anime, hiking, trekking y camping.<br>
+:heart_decoration: Me gusta el invierno, ver las estrellas y cuidar a los animales.<br>
+⚡ Dato curioso: me gusta sentir el olor a tierra humeda por la mañana cuando salgo de mi carpa.
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
