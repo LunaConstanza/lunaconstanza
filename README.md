@@ -1,11 +1,12 @@
-<img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"/>
-
 # Holaaa! ✨ Me llamo Luna y es un gusto que me leas :hand_over_mouth:
 
 :woman_technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.<br>
 :jigsaw: Mis intereses son diversos: Plantitas, peliculas, series, video juegos, anime, hiking, trekking y camping.<br>
 :heart_decoration: Me gusta el invierno, ver las estrellas y cuidar a los animales.<br>
 ⚡ Dato curioso: me gusta sentir el olor a tierra humeda por la mañana cuando salgo de mi carpa.
+
+<img width="100" src="https://gif-free.com/uploads/posts/2017-07/1499926132_totoro-greeting.gif"><img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><img width="100" src="https://c.tenor.com/FuoQHpR2_ckAAAAM/rainy-day-totoro.gif"><img width="100" src="https://i.pinimg.com/originals/f8/06/cd/f806cde5b6564e4124f968c3e5599b37.gif"><img width="100" src="https://i.pinimg.com/originals/9b/cd/bb/9bcdbb0b749bbd3c2d0d1ed23ecfbe03.gif">
+
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
