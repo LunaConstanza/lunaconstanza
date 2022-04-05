@@ -1,11 +1,22 @@
-# Holaaa! ✨ Me llamo Luna y es un gusto que me leas :hand_over_mouth:
+<img width="1000" src="https://media-exp1.licdn.com/dms/image/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/0/1648554455873?e=1654732800&v=beta&t=__TJEbyVSo7owhC7wjoBjQSGw34SNeuXXq3Uc_IT9H0">
 
-:woman_technologist: Soy diseñadora gráfica de profesión y voy en camino a ser una desarrolladora front-end.<br>
-:video_game: Mis intereses son diversos: plantitas, peliculas, series, video juegos, anime, hiking, trekking y camping.<br>
-:heart_decoration: Me gusta el invierno, ver las estrellas y cuidar a los animales.<br>
-⚡ Dato curioso: me gusta sentir el olor a tierra humeda por la mañana cuando salgo de mi carpa.
+# Holaaa! me llamo Luna :crescent_moon:
 
-<img width="100" src="https://gif-free.com/uploads/posts/2017-07/1499926132_totoro-greeting.gif"><img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><img width="100" src="https://c.tenor.com/FuoQHpR2_ckAAAAM/rainy-day-totoro.gif"><img width="100" src="https://i.pinimg.com/originals/f8/06/cd/f806cde5b6564e4124f968c3e5599b37.gif"><img width="100" src="https://i.pinimg.com/originals/9b/cd/bb/9bcdbb0b749bbd3c2d0d1ed23ecfbe03.gif"><img width="100" src="https://media0.giphy.com/media/3owyoYO4E14YdeGVG0/200w.webp"><img width="100" src="https://media1.giphy.com/media/3oz8xXJd2j4JWsZow8/200w.webp">
+:woman_technologist: Soy <b>desarrolladora web front-end JavaScript</b> & <b>diseñadora gráfica</b>.<br>
+🌱 Siempre estoy en constante aprendizaje para obtener variados conocimientos y compartirlos con el mundo.<br>
+## ⚡ más sobre mi...
+```javascript
+const moon = {
+  skills: ["metodología ágil", "trabajo en equipo", "adaptabilidad", "autoaprendizaje"],
+  tools: [HTML, CSS, JavaScript, Bootstrap, NodeJS, React],
+  interests: [floors, movies, videoGames, anime, camping],
+  preferences: [winter, star, animals, studioGhibli],
+  motto: [inhala, exhala],
+}
+```
+##### :point_down: Conecta conmigo!
+[![Linkedin: lunaconstanza](https://img.shields.io/badge/-lunaconstanza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lunaconstanza/)](https://www.linkedin.com/in/lunaconstanza/)<br>
+<img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><br>
 
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+✨
 -->
