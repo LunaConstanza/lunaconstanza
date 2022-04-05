@@ -4,7 +4,9 @@
 
 :woman_technologist: Soy <b>desarrolladora web front-end JavaScript</b> & <b>diseñadora gráfica</b>.<br>
 🌱 Siempre estoy en constante aprendizaje para obtener variados conocimientos y compartirlos con el mundo.<br>
-## ⚡ más sobre mi...
+<br>
+⚡ más sobre mi...
+
 ```javascript
 const moon = {
   skills: ["metodología ágil", "trabajo en equipo", "adaptabilidad", "autoaprendizaje"],
@@ -14,7 +16,8 @@ const moon = {
   motto: [inhala, exhala],
 }
 ```
-##### :point_down: Conecta conmigo!
+
+#### :point_down: Conecta conmigo!
 [![Linkedin: lunaconstanza](https://img.shields.io/badge/-lunaconstanza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lunaconstanza/)](https://www.linkedin.com/in/lunaconstanza/)<br>
 <img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><br>
 
