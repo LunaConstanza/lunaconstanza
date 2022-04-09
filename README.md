@@ -4,7 +4,7 @@
 
 <img width="200" align="right" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><br>
 :woman_technologist: Soy <b>desarrolladora web front-end JavaScript</b> & <b>diseñadora gráfica</b>.<br>
-🌱 Siempre estoy en constante aprendizaje para obtener variados conocimientos y compartirlos con el mundo.<br>
+🌱 Adoro codear y solucionar problemas, siempre estoy en constante aprendizaje para obtener variados conocimientos y compartirlos con el mundo.<br>
 #### :point_down: Conecta conmigo!
 [![Linkedin: lunaconstanza](https://img.shields.io/badge/-lunaconstanza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lunaconstanza/)](https://www.linkedin.com/in/lunaconstanza/)<br>
 
