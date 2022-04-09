@@ -2,24 +2,23 @@
 
 # Holaaa! me llamo Luna :crescent_moon:
 
+<img width="200" align="right" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><br>
 :woman_technologist: Soy <b>desarrolladora web front-end JavaScript</b> & <b>diseñadora gráfica</b>.<br>
 🌱 Siempre estoy en constante aprendizaje para obtener variados conocimientos y compartirlos con el mundo.<br>
-<br>
+#### :point_down: Conecta conmigo!
+[![Linkedin: lunaconstanza](https://img.shields.io/badge/-lunaconstanza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lunaconstanza/)](https://www.linkedin.com/in/lunaconstanza/)<br>
+
 ⚡ más sobre mi...
 
 ```javascript
 const moon = {
-  skills: ["metodología ágil", "trabajo en equipo", "adaptabilidad", "autoaprendizaje"],
-  tools: [HTML, CSS, JavaScript, Bootstrap, NodeJS, React],
-  interests: [floors, movies, videoGames, anime, camping],
-  preferences: [winter, star, animals, studioGhibli],
-  motto: [inhala, exhala],
+  skills: ["trabajo en equipo", "adaptabilidad", "autoaprendizaje", "prudencia", "metodologías ágiles"],
+  tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "NodeJS", "React],
+  interests: [floors, movies, series, videoGames, anime, camping],
+  preferences: [winter, teas, stars, animals, studioGhibli],
+  motto: ["inhala, exhala"],
 }
 ```
-
-#### :point_down: Conecta conmigo!
-[![Linkedin: lunaconstanza](https://img.shields.io/badge/-lunaconstanza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lunaconstanza/)](https://www.linkedin.com/in/lunaconstanza/)<br>
-<img width="100" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><br>
 
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
