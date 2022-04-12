@@ -19,8 +19,7 @@ const moon = {
   motto: ["inhala, exhala"],
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaconstanza&langs_count=5)](https://github.com/lunaconstanza/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaconstanza&layout=compact)](https://github.com/lunaconstanza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaConstanza&layout=compact)](https://github.com/LunaConstanza/SCL019-social-network)
 
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
