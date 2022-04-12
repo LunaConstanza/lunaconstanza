@@ -13,12 +13,14 @@
 ```javascript
 const moon = {
   skills: ["trabajo en equipo", "adaptabilidad", "autoaprendizaje", "prudencia", "metodologías ágiles"],
-  tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "NodeJS", "React],
+  tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "NodeJS", "React"],
   interests: [floors, movies, series, videoGames, anime, camping],
   preferences: [winter, teas, stars, animals, studioGhibli],
   motto: ["inhala, exhala"],
 }
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaconstanza&langs_count=5)](https://github.com/lunaconstanza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaconstanza&layout=compact)](https://github.com/lunaconstanza/github-readme-stats)
 
 <!--
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
