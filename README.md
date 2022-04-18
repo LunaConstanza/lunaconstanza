@@ -16,12 +16,15 @@ const moon = {
   interests: [floors, movies, series, videoGames, anime, camping],
   preferences: [winter, teas, stars, animals, studioGhibli],
   motto: ["inhala, exhala"],
-}
+};
 ```
 
-<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunaconstanza&layout=compact&theme=algolia"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lunaconstanza&show_icons=true&theme=algolia"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaConstanza&layout=compact)](https://github.com/LunaConstanza/SCL019-social-network)
+<!--
 
 **LunaConstanza/lunaconstanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
