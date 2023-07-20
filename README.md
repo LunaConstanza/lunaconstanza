@@ -1,4 +1,4 @@
-<img width="1000" src="https://media.licdn.com/dms/image/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/0/1648554455873?e=1689206400&v=beta&t=mQ_rv9pX0falAk5Lk3vw-kMOI9boTJE0km3ny0qHVTU">
+<img width="1000" src="https://media.licdn.com/dms/image/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/0/1648554455873?e=1695254400&v=beta&t=RlCgVuN1-VGV_Bs7V2kk8EF5g5zM9iI7WsBNoVzTEcs">
 
 # Holaaa! me llamo Luna <img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif">
 
@@ -13,9 +13,9 @@
 ```javascript
 const moon = {
   tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "NodeJS", "React"],
-  interests: [floors, movies, series, videoGames, anime, camping],
-  preferences: [winter, teas, stars, animals, studioGhibli],
-  motto: ["inhala, exhala"],
+  interests: ["floors", "movies", "series", "videoGames", "anime", "camping"],
+  preferences: ["winter", "teas", "stars", "animals", "studioGhibli"],
+  motto: "inhala, exhala",
 };
 ```
 
