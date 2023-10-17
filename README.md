@@ -1,6 +1,6 @@
 <img width="1000" src="https://media.licdn.com/dms/image/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/0/1648554455873?e=1703116800&v=beta&t=rJceirlEZX3vgOKUcrWoUZqNySB_tgJZ05PKjW5N8LI">
 
-# Holaaa! me llamo Luna <img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif">
+- <b>Holaaa! me llamo Luna <img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif"></b>
 
 <img width="200" align="right" src="https://c.tenor.com/5DOuCnEZOOwAAAAC/totoro-work.gif"><br>
 :woman_technologist: Soy <b>desarrolladora web front-end JavaScript</b> & <b>diseñadora gráfica</b>.<br>
