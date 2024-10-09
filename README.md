@@ -1,4 +1,4 @@
-<img width="1000" src="https://media.licdn.com/dms/image/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/0/1648554456243?e=1718841600&v=beta&t=gBMoHsP7kv1PoEkVbAoDl06qAcJmltSiY-2Y2d1N0BE">
+<img width="1000" src="https://media.licdn.com/dms/image/v2/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648554456243?e=1733961600&v=beta&t=VCo8_zdZlZ_deelH9oBCQ7NowMFtTj4Tqe2_gDcHzQk">
 
 # <b>Holaaa! me llamo Luna <img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif"></b>
 
@@ -11,7 +11,7 @@
 ✨ más sobre mi...
 
 ```javascript
-const moon = {
+const luna = {
   tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "NodeJS", "React"],
   interests: ["floors", "movies", "series", "videoGames", "anime", "camping"],
   preferences: ["winter", "teas", "stars", "animals", "studioGhibli"],
