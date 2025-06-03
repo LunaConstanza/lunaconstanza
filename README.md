@@ -1,4 +1,4 @@
-<img width="1000" src="https://media.licdn.com/dms/image/v2/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648554456243?e=1747267200&v=beta&t=cBX_JymleNXvXxGZ_LFCz3xjZPOIWxU6Wobr__5y9IU">
+<img width="1000" src="https://media.licdn.com/dms/image/v2/C4E16AQEyEfOCCEFCMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648554456243?e=1754524800&v=beta&t=fEyIUoU2WmCa-Go1Bp9ef_C5QSj858aVMHLfDS44W9w">
 
 # <b>Holaaa! me llamo Luna <img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif"></b>
 
